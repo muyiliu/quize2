@@ -38,7 +38,7 @@ public class Financial_cal {
 			tuititon1 += tuititon1*percentage;
 			total_tuition += tuititon1;
 		}
-		System.out.printf("Your total tuition will be ", total_tuition);
+		System.out.println(total_tuition);
 		
 		input.close();
 		}
